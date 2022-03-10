@@ -3,3 +3,8 @@
     padding: 1rem 1rem;
     border-radius: 0.5rem;
 }
+
+.front-end-development:hover{
+    background-color: transparent;
+    border: 1px solid #2C2A61;
+}
