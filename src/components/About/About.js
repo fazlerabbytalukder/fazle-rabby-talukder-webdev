@@ -24,14 +24,14 @@ const About = () => {
                         </div>
                         <div className="col-md-4 col-sm-4 text-center about-card d-flex justify-content-center align-items-center me-2">
                             <div>
-                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-certificate"></i>
+                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-link"></i>
                                 <h5 className='mt-2'>Connection</h5>
                                 <p className='text-secondary'>500+ connection</p>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-4 text-center about-card d-flex justify-content-center align-items-center">
                             <div>
-                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-certificate"></i>
+                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-diagram-project"></i>
                                 <h5 className='mt-2'>Projects</h5>
                                 <p className='text-secondary'>50+ Completed</p>
                             </div>
