@@ -7,6 +7,7 @@ import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 import Experience from './components/Experience/Experience';
 import Banner from './components/Banner/Banner';
+import ProjectDetails from './components/ProjectDetails/ProjectDetails';
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
           </Route>
           <Route exact path='/about'>
             <About></About>
+          </Route>
+          <Route path='/projectsDetails/:projectId'>
+              <ProjectDetails></ProjectDetails>
           </Route>
           <Route exact path='/contact'>
             <Contact></Contact>
