@@ -3,6 +3,7 @@ import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Contact from '../Contact/Contact';
 import Experience from '../Experience/Experience';
+import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import Projects from '../Projects/Projects';
 
@@ -15,6 +16,7 @@ const Home = () => {
             <Experience></Experience>
             <Projects></Projects>
             <Contact></Contact>
+            <Footer></Footer>
         </div>
     );
 };

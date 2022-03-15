@@ -10,7 +10,7 @@ const Contact = () => {
         emailjs.sendForm('service_cac4nuf', 'template_ql04u2i', form.current, 'o3-uA0uz7P_V85DvY')
     };
     return (
-        <div id='contact' className='container'>
+        <div id='contact' className='container mb-5'>
             <div className="text-center mt-5 mb-5">
                 <p style={{ textSize: '0.875em', marginBottom: '-2px' }} className='text-secondary'>Get In Touch</p>
                 <h2 style={{ color: '#4FB4F2' }}>Contact Me</h2>

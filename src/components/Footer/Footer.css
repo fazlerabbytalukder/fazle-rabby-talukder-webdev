@@ -1,0 +1,30 @@
+.footer-background{
+    background-color: #4FB4F2;
+}
+
+.footer-logo{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:2rem;
+    margin: 0 auto 3rem;
+    list-style: none;
+}
+
+.footer-nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-nav a:hover{
+    color: #2C2A61;
+}
+
+.footer-icons{
+    margin-top: -2rem;
+}
