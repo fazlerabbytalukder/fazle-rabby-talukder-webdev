@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <footer className='container-fluid footer-background'>
+        <footer className='container-fluid footer-background' id='footer'>
             <div className='text-center py-5'>
                 <a className='text-center h3 footer-logo' href="https://www.facebook.com/frtfazlerabby/">Fazle Rabby Talukder</a>
                 <ul className='footer-nav mt-4'>

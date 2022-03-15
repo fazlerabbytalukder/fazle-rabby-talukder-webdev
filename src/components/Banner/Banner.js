@@ -27,7 +27,7 @@ const Banner = () => {
                         <img className='img-fluid img-width' src={bannerImg} alt="" srcset="" />
                     </div>
                     <div className="col-md-4 col-sm-12 position-relative">
-                        <a className='vertical-button position-absolute bottom-0 end-0 fs-6' href="https://github.com/fazlerabbytalukder" target="_blank" rel="noreferrer">ScrollDown-</a>
+                        <a className='vertical-button position-absolute bottom-0 end-0 fs-6' href="#footer">ScrollDown-</a>
                     </div>
                 </div>
             </div>
