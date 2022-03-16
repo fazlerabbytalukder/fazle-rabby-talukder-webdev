@@ -15,32 +15,38 @@ const About = () => {
                 </div>
                 <div className="col-md-6">
                     <div className="row">
-                        <div className="col-md-4 col-sm-4 text-center about-card d-flex justify-content-center align-items-center me-2 ms-2">
-                            <div>
-                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-certificate"></i>
-                                <h5 className='mt-2'>Experience</h5>
-                                <p className='text-secondary'>2+ Years (WebDev)</p>
+                        <div className="col-md-4 col-sm-4 mb-3">
+                            <div className="card about-card text-center" >
+                                <div className="card-body">
+                                    <i style={{ color: '#4FB4F2' }} className="fa-solid fa-certificate"></i>
+                                    <h5 className='mt-2'>Experience</h5>
+                                    <p className='text-secondary'>2+ Years (WebDev)</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="col-md-4 col-sm-4 text-center about-card d-flex justify-content-center align-items-center me-2">
-                            <div>
-                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-link"></i>
-                                <h5 className='mt-2'>Connection</h5>
-                                <p className='text-secondary'>500+ connection</p>
+                        <div className="col-md-4 col-sm-4 mb-3">
+                            <div className="card about-card text-center" >
+                                <div className="card-body">
+                                    <i style={{ color: '#4FB4F2' }} className="fa-solid fa-link"></i>
+                                    <h5 className='mt-2'>Connection</h5>
+                                    <p className='text-secondary'>500+ connection</p>
+                                </div>
                             </div>
                         </div>
-                        <div className="col-md-4 col-sm-4 text-center about-card d-flex justify-content-center align-items-center">
-                            <div>
-                                <i style={{ color: '#4FB4F2' }} class="fa-solid fa-diagram-project"></i>
-                                <h5 className='mt-2'>Projects</h5>
-                                <p className='text-secondary'>50+ Completed</p>
+                        <div className="col-md-4 col-sm-4 mb-3">
+                            <div className="card about-card text-center">
+                                <div className="card-body">
+                                    <i style={{ color: '#4FB4F2' }} className="fa-solid fa-diagram-project"></i>
+                                    <h5 className='mt-2'>Projects</h5>
+                                    <p className='text-secondary'>50+ Completed projects</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-md-12 col-sm-12">
                             <p className='pe-5 mt-4 mb-5'>
-                            I am enthusiastic about web development with excellent developing skills and want to work in an innovative company where my creative work will be appreciated.
+                                I am enthusiastic about web development with excellent developing skills and want to work in an innovative company where my creative work will be appreciated.
                             </p>
                             <a className='button1' href="https://wa.me/8801739719796">Let't Talk</a>
                         </div>

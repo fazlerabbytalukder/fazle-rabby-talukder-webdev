@@ -1,8 +1,12 @@
 .about-card{
     background-color: #2C2A61;
-    height: 9.3rem;
-    width: 9.3rem;
-    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.about-card:hover{
+    background-color: transparent;
+    border: 1px solid #4FB4F2;
+    cursor: pointer;
 }
 
 .button1{

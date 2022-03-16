@@ -1,0 +1,9 @@
+.pe-card{
+    background-color: transparent;
+    border: 1px solid #4FB4F2;
+    border-radius: .5rem;
+}
+
+.job-title{
+    color: #4FB4F2;
+}
