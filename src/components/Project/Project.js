@@ -20,7 +20,7 @@ const Project = ({ project }) => {
                         <p class="card-text text-secondary">{description}</p>
                         <div className='py-3'>
                             <a className='button1 me-2' href={liveSite} target="_blank" rel="noreferrer">Live Demo</a>
-                            <a onClick={handleProjectClick} className='button2' href="#">Details</a>
+                            <button style={{color:'white'}} onClick={handleProjectClick} className='button2'>Details</button>
                         </div>
                     </div>
                 </div>

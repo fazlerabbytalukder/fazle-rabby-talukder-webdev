@@ -1,0 +1,43 @@
+.card-background{
+    background-color: #2C2A61;
+}
+
+.project-name{
+    color: #4FB4F2;
+}
+
+.technology{
+    color: #4FB4F2;
+    font-weight: bold;
+}
+
+.button1{
+    border: 2px solid #4FB4F2;
+    border-radius: 0.4rem;
+    padding: 0.55rem 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: #4FB4F2;
+}
+
+.button1:hover{
+    background-color: #4FB4F2;
+    color: white;
+}
+
+
+.button2{
+    background-color:#4FB4F2;
+    padding: 0.65rem 1rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:'600';
+}
+
+.button2:hover{
+    background-color: transparent;
+    border: 2px solid #4FB4F2;
+    border-radius: 0.4rem;
+    color: #4FB4F2;
+}
