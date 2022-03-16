@@ -15,7 +15,7 @@ const Projects = () => {
             <div className="text-center mt-5 mb-5">
                 <div className='my-5'>
                     <p style={{ textSize: '0.875em', marginBottom: '-2px' }} className='text-secondary'>My Recent Work</p>
-                    <h2 style={{ color: '#4FB4F2' }}>Portfolio</h2>
+                    <h2 style={{ color: '#4FB4F2' }}>Projects</h2>
                 </div>
                 <div>
                     <div class="row row-cols-1 row-cols-md-3 g-4">
