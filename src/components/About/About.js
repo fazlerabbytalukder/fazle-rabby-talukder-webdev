@@ -10,7 +10,7 @@ const About = () => {
                 <h2 style={{ color: '#4FB4F2' }}>About Me</h2>
             </div>
             <div className="row mb-5">
-                <div className="col-md-6">
+                <div className="col-md-6 d-flex justify-content-center align-items-center">
                     <img className='img-fluid w-75 text-sm-center' src={aboutImg} alt="" />
                 </div>
                 <div className="col-md-6">
