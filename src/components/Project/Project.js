@@ -14,7 +14,7 @@ const Project = ({ project }) => {
         <div>
             <div class="col">
                 <div class="card h-100 card-design">
-                    <img src={img1} class="card-img-top p-2" alt="..." />
+                    <img src={img1} class="card-img-top p-2 card-img" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">{ProjectName}</h5>
                         <p class="card-text text-secondary">{description}</p>

@@ -37,3 +37,7 @@
     background-color: transparent;
     border: 1px solid #2C2A61;
 }
+
+.card-img{
+    height: 12rem;
+}
